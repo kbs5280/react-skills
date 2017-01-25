@@ -4,7 +4,8 @@ A basic React app built on a Rails API. React-Skills uses AJAX to query the Rail
 
 Project utilizes:
 * JavaScript
-* React* AJAX
+* React
+* AJAX
 * Ruby
 * Ruby on Rails
 * CRUD
